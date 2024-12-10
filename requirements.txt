@@ -1,1 +1,1 @@
-gunicon==21.1.0
+gunicon==23.0.0
