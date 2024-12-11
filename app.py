@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from newspaper import Article
+
 
 app = Flask(__name__)
 
