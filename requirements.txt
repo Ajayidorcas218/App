@@ -1,2 +1,4 @@
 gunicorn==21.1.0
 flask==2.3.3
+requests
+newspaper3k
