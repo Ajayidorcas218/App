@@ -1,3 +1,5 @@
-gunicorn==21.1.0
-flask==2.3.3
-newspaper3k
+newspaper3k==0.2.8
+requests==2.28.1
+beautifulsoup4==4.11.1
+lxml==4.9.3
+
